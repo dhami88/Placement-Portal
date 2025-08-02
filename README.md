@@ -53,8 +53,5 @@ The Placement Management System is a web application built for the Training and 
 
 ---
 
-## Team Members
 
-- Aditya Sharma 
-- Ankit Garg
 
